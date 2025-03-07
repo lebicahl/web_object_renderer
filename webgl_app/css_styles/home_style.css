@@ -1,0 +1,24 @@
+.bio_title {
+  font-size: 30px;
+  margin: 5px;
+}
+
+.bio_text {
+  margin: 5px;
+  font-size: 19px;
+}
+
+.items_subtitle {
+  font-size: 20px;
+  margin: 0px;
+}
+
+.image_bordered {
+  max-width: 1200px;
+}
+
+.cover_image_box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
