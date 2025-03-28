@@ -1,9 +1,9 @@
 document.getElementById("head_content").innerHTML +=
 
   '<meta charset="UTF-8">'+
-  '<meta name="description" content="lebicahlz website">'+
-  '<meta name="keywords" content="lebicahlz, code, programming, tech">'+
-  '<meta name="author" content="lebicahlz">'+
+  '<meta name="description" content="lebicahl website">'+
+  '<meta name="keywords" content="lebicahl, code, programming, tech">'+
+  '<meta name="author" content="lebicahl">'+
   '<meta name="viewport" content="width=device-width, initial-scale=1.0">'+
   '<!--<meta http-equiv="X-UA-Compatible" content="ie=edge">--!>'+
   "<title>lebicahlz</title>"+
