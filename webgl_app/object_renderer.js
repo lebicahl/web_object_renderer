@@ -546,7 +546,7 @@ function getRandomFloat(min, max) {
 
 export async function create_background_models(renderer) {
     const objLoader = new OBJLoader();
-    const objText = await (await fetch('/objects/noob.obj')).text();
+    const objText = await (await fetch('./objects/noob.obj')).text();
     await objLoader.loadOBJ(objText);
     
     const texture = renderer.loadTexture('./textures/noob.png');
