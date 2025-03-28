@@ -549,7 +549,7 @@ export async function create_background_models(renderer) {
     const objText = await (await fetch('/objects/noob.obj')).text();
     await objLoader.loadOBJ(objText);
     
-    const texture = renderer.loadTexture('textures/noob.png');
+    const texture = renderer.loadTexture('./textures/noob.png');
     
     const scale = 0.1;
     
