@@ -7,3 +7,6 @@ open the website on your browser at http://localhost:3002/
 
 mtl files are not supported right now but I might add support in the future.  
 support files are .obj  
+
+view the renderer on github pages:  
+https://lebicahl.github.io/web_object_renderer/  
