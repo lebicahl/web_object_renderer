@@ -551,7 +551,7 @@ export async function create_background_models(renderer) {
     
     const texture = renderer.loadTexture('./textures/noob.png');
     
-    const scale = 0.1;
+    const scale = 1;
     
     for (let i = 0; i < 500; i++) {
         const randomX = getRandomFloat(-5,5);
