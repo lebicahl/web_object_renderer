@@ -9,5 +9,5 @@ document.getElementById("head_content").innerHTML +=
   "<title>lebical</title>"+
   '<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">'+
   '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">'+
-  '<link rel="icon" href="assets/lebical icon.png">'
+  '<link rel="icon" href="assets/lebical_icon.png">'
 
