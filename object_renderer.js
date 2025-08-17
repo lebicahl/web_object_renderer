@@ -553,7 +553,7 @@ export async function create_background_models(renderer) {
     
     const scale = 1;
     
-    for (let i = 0; i < 500; i++) {
+    for (let i = 0; i < 250; i++) {
         const randomX = getRandomFloat(-5,5);
         const randomY = getRandomFloat(-10,10);
         
