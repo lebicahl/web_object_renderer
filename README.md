@@ -9,4 +9,4 @@ mtl files are not supported right now but I might add support in the future.
 support files are .obj  
 
 view the renderer on github pages:  
-https://lebical.github.io/web_object_renderer/  
+https://lebicahl.github.io/web_object_renderer/  
